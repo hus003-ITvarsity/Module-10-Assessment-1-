@@ -1,0 +1,23 @@
+.button-container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 15px;
+}
+input {
+  width: 33%;
+  margin-left: 33%;
+  padding: 10px;
+  margin-top: 15px;
+  border: 1px solid rgb(0, 59, 101);
+}
+
+#getData, #getList, #submitForm{
+    width: 93px;
+    border: solid;
+    padding: 5px;
+    border-color: rgb(0, 59, 101);
+    background-color: rgba(0, 59, 101, 0.55);
+    text-align: center;
+    justify-content: center;
+}
